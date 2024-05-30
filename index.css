@@ -1,0 +1,26 @@
+body {
+    max-width: 40em;
+    margin: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    margin: 5em 0;
+}
+
+footer {
+    font-size: .7em;
+}
+
+a {
+    color: #8c0000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
